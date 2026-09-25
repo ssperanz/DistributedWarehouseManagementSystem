@@ -1,4 +1,4 @@
-# MVP – Sistema di Gestione di un Magazzino Distribuito
+# Sistema di Gestione di un Magazzino Distribuito
 
 [![CI](https://github.com/ssperanz/mvp/actions/workflows/ci.yml/badge.svg)](https://github.com/ssperanz/mvp/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/ssperanz/mvp/branch/main/graph/badge.svg)](https://codecov.io/gh/ssperanz/mvp)
